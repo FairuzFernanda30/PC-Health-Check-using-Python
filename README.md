@@ -154,3 +154,17 @@ Sisa Waktu Baterai: Tersambung ke daya AC
 Health check selesai!
 [SAVED] Laporan disimpan ke: log_file\health_log_20260610_120449.txt
 ```
+
+---
+
+## 👨‍💻 Author
+
+**Fairuz Fernanda**
+* GitHub: [@FairuzFernanda30](https://github.com/FairuzFernanda30)
+
+## 🔗 Other Projects
+
+* [Customer Churn Prediction](https://github.com/FairuzFernanda30/churn-app)
+* [PDF to Excel Extractor](https://github.com/FairuzFernanda30/pdf-to-excel-extractor)
+* [Web Scraper - Books to Scrape](https://github.com/FairuzFernanda30/Web-Scraper)
+* [Excel Auto Cleaner Formatter] https://github.com/FairuzFernanda30/Excel-Auto-Cleaner-Formatter
