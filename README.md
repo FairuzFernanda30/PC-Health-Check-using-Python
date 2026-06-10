@@ -167,4 +167,4 @@ Health check selesai!
 * [Customer Churn Prediction](https://github.com/FairuzFernanda30/churn-app)
 * [PDF to Excel Extractor](https://github.com/FairuzFernanda30/pdf-to-excel-extractor)
 * [Web Scraper - Books to Scrape](https://github.com/FairuzFernanda30/Web-Scraper)
-* [Excel Auto Cleaner Formatter] https://github.com/FairuzFernanda30/Excel-Auto-Cleaner-Formatter
+* [Excel Auto Cleaner Formatter](https://github.com/FairuzFernanda30/Excel-Auto-Cleaner-Formatter)
