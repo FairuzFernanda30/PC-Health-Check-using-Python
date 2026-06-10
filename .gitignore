@@ -1,0 +1,29 @@
+# Python bytecode / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.conda/
+env/
+venv/
+.venv/
+ENV/
+
+# Local logs containing computer names and health check history
+log_file/
+health_log_*.txt
+
+# IDE / Editor configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Personal plans & notes
+day-to-day Plan.txt
+
