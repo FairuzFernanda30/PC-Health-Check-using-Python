@@ -25,8 +25,8 @@ Before running this utility, ensure you have **Python 3.12.1** and the required 
 
 1. **Clone or Download This Repository:**
    ```bash
-   git clone https://github.com/username/repo-name.git
-   cd repo-name
+   git clone https://github.com/FairuzFernanda30/PC-Health-Check-using-Python.git
+   cd PC-Health-Check-using-Python
    ```
 
 2. **Install Dependencies:**
@@ -105,8 +105,8 @@ Sebelum menjalankan program ini, pastikan Anda telah menginstal **Python 3.x** d
 
 1. **Clone atau Unduh Repositori Ini:**
    ```bash
-   git clone https://github.com/username/repo-name.git
-   cd repo-name
+   git clone https://github.com/FairuzFernanda30/PC-Health-Check-using-Python.git
+   cd PC-Health-Check-using-Python
    ```
 
 2. **Instal Dependensi:**
